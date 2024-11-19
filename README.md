@@ -1,4 +1,4 @@
-### README for **BuyBuddy** Repository
+
 
 # BuyBuddy 🛒
 
