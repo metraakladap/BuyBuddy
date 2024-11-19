@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1019898258538",
+    "firebase_url": "https://buybuddy-38f67-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "buybuddy-38f67",
+    "storage_bucket": "buybuddy-38f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019898258538:android:83103a96593bc97beb1613",
+        "android_client_info": {
+          "package_name": "com.example.buybuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019898258538-jedf3p3bkg3n8v2d3v7o5a2itcaqjh9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buybuddy",
+            "certificate_hash": "d8b5e39da922cccd154865267778e7f5637eff96"
+          }
+        },
+        {
+          "client_id": "1019898258538-1ohmihna8fsdf1l8vlfnjrjo6rb06se5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkwfSJkO9hE4bNeFlfRQB8jE62WMtv4dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019898258538-1ohmihna8fsdf1l8vlfnjrjo6rb06se5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
